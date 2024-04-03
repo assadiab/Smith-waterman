@@ -104,5 +104,3 @@ Le score de similarité est de 17.
 ## Références
 - Article de Smith et Waterman de 1981 : [Identification of Common Molecular Subsequences](https://www.ncbi.nlm.nih.gov/pubmed/7265238)
 - [Wikipedia - Smith-Waterman algorithm](https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm)
-
-```
