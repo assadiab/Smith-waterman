@@ -1,8 +1,8 @@
 /*
- * Nom du fichier : mon_fichier.c
+ * Nom du fichier : Smith_Waterman_DIABIRA.c
  * Description : Ce fichier contient le code source pour l'algorithme d’alignement de séquence de Smith-Waterman.
  * Auteur : Assa DIABIRA
- * Dernière modification : 02/04/2024
+ * Dernière modification : 03/04/2024
  */
 
 #include <stdio.h>
